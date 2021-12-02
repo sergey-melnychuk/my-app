@@ -35,6 +35,10 @@
    </repository>
   </distributionManagement>
 
+  <scm>
+    <developerConnection>scm:git:git@github.com:sergey-melnychuk/my-app.git</developerConnection>
+  </scm>
+
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
